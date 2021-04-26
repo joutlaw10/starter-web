@@ -3,6 +3,10 @@
 This is a simple website project for
 showing how to use Git and Github
 
+#Introduction
+This is example to show different parts
+of the Git repo
+
 ## Purpose
 
 ## Deployment
