@@ -8,8 +8,11 @@ This is example to show different parts
 of the Git repo
 
 ## Purpose
+Adding purpose
+
 
 ## Deployment
+Deploy
 
 
 Sample website with plenty of files for demos
