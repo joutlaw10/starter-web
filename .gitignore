@@ -1,2 +1,3 @@
 remove_file
 log/
+*.orig
