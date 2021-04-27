@@ -18,3 +18,7 @@ Deploy
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+### Copyright
+
+2021Git.Training.
